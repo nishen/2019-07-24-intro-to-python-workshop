@@ -44,13 +44,7 @@ In this repository you will find all the workshop materials used during the two 
    
    To ensure Binder clones *your* respository, you will need to update the link below to include your GitHub username:
    
-   [//]: # (TIP: change the next line to include your GitHub username instead of the place holder)
-<<<<<<< HEAD
-   [Launch My Python Workshop on Binder](https://mybinder.org/v2/gh/nishen/2019-07-24-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb)- don't click this link until you have inserted your GitHub username
-=======
->>>>>>> source/master
-   
-   [Launch My Python Workshop on Binder]: https://mybinder.org/v2/gh/PUT-YOUR-GITHUB-USERNAME-HERE/2019-07-24-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb
+   [Launch My Python Workshop on Binder]: https://mybinder.org/v2/gh/nishen/2019-07-24-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb
    
    Don't click -> **[Launch My Python Workshop on Binder]** <- until you have added ***your*** GitHub username.
    
